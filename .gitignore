@@ -28,4 +28,6 @@ consumer.iml
 mvnw
 mvnw.cmd
 pom.xml
-src/
+target/*
+data/*
+data/
